@@ -1,0 +1,8 @@
+C:\Personal Development\CV merging\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+C:\Personal Development\CV merging\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+C:\Personal Development\CV merging\TestApplication\TestApplication\bin\Debug\Aspose.Words.dll
+C:\Personal Development\CV merging\TestApplication\TestApplication\bin\Debug\Aspose.Words.xml
+C:\Personal Development\CV merging\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CoreCompileInputs.cache
+C:\Personal Development\CV merging\TestApplication\TestApplication\obj\Debug\TestApplication.csproj.CopyComplete
+C:\Personal Development\CV merging\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+C:\Personal Development\CV merging\TestApplication\TestApplication\obj\Debug\TestApplication.pdb
